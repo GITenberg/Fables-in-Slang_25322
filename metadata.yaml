@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3917
     wikipedia: http://en.wikipedia.org/wiki/George_Ade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25322#Fables-in-Slang
 gutenberg_issued: '2008-05-04'
 gutenberg_type: Text
 identifiers:
